@@ -1,5 +1,3 @@
 # Trendyol
 
-# EMİRHAN İPEK 
-
-# ZEYNEB NUR AKSU 
+### EMİRHAN İPEK  
