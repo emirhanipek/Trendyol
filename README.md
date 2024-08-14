@@ -1,5 +1,7 @@
 ## Login Page (Giriş Sayfası)
 
+![Adsız tasarım (1)](https://github.com/user-attachments/assets/51b958b2-8b23-4823-8cba-46a1a9defcb9)
+
 **Amaç:** Kullanıcıların mevcut hesaplarıyla giriş yapmasını sağlar.
 
 **Kullanıcı Arayüzü Elemanları:**
@@ -8,7 +10,7 @@
 - **Login Button:** Kullanıcının giriş yapması için.
 - **Forgot Password Link:** Kullanıcının şifresini unuttuğunda yeni bir şifre talep etmesi için.
 - **Sign Up Link:** Yeni kullanıcılar için kayıt sayfasına yönlendirme sağlar.
-<img width="500" alt="Ekran Resmi 2024-08-11 01 29 24" src="https://github.com/user-attachments/assets/5934c896-4756-4174-86d6-eaf871a9dea0">
+
 
 **Fonksiyonellik:** 
 E-posta ve şifreyi kontrol eder, geçerli giriş bilgileriyle kullanıcıyı ana sayfaya yönlendirir.
@@ -26,7 +28,7 @@ E-posta ve şifreyi kontrol eder, geçerli giriş bilgileriyle kullanıcıyı an
 - **Confirm Password TextField:** Şifrenin doğrulanması için.
 - **Register Button:** Kullanıcının hesabını oluşturması için.
 - **Login Link:** Zaten hesabı olan kullanıcılar için giriş sayfasına yönlendirme sağlar.
-<img width="500" alt="Ekran Resmi 2024-08-11 10 02 31" src="https://github.com/user-attachments/assets/a7681a1a-a6f5-4444-b868-ac4c44b196f9">
+
 
 **Fonksiyonellik:** 
 Girilen bilgileri kontrol eder, geçerli bilgilerle yeni kullanıcı kaydı oluşturur ve kullanıcıyı ana sayfaya yönlendirir.
